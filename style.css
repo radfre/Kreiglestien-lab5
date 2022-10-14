@@ -1,7 +1,95 @@
 .wrapper {
- background: orange;
- width: auto;
- margin: 0 auto;
+  background: orange;
+  width: auto;
+  margin: 0 0;
 }
 
+body{
+  background: black;
+  font-family: Helvetica, Arial, Sans-serif;
+}
+
+.header{
+  padding: 20px;
+  text-align: center;
+  background: #ADD8E6;
+  color: black;
+  font-size:35px;
+}
+
+.img-pane{
+  text-align: center;
+  padding: 40px;
+  background: black;
+  color: white;
+  font-size: 25px;
+
+}
+
+table.table1{
+  margin: auto;
+  width: 95%;
+  font-size: 30px;
+
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+
+}
+
+.info-table{
+  margin: auto;
+  width 60%;
+  padding: 30px;
+
+  background: #ADD8E6;
+}
+
+table.table2{
+  border: 3px solid;
+  width 85%;
+  margin: auto;
+  font-size: 27px;
+
+}
+
+table.table2 th{
+  border: 1px solid;
+  padding: 3px;
+}
+
+table.table2 td{
+  border: 1px solid;
+  padding: 7px;
+}
+
+.fun-title{
+  float: left;
+  width: 20%;
+  padding: 25px;
+  background: #d76f1b;
+  color: white;
+  font-size: 40px
+}
+
+.fun-body{
+  float: Right;
+  width 70%;
+  padding 10px;
+  background: #d76f1b;
+  color: white;
+  font-size: 30px;
+}
+
+ul{
+list-style-type: square;
+list-style-position: inside;
+padding: 10px;
+}
+
+li{
+  margin: 20px;
+}
 
