@@ -41,7 +41,7 @@ img{
 
 .info-table{
   margin: auto;
-  width 60%;
+  width: 60%;
   padding: 30px;
 
   background: #ADD8E6;
@@ -49,7 +49,7 @@ img{
 
 table.table2{
   border: 3px solid;
-  width 85%;
+  width: 85%;
   margin: auto;
   font-size: 27px;
 
@@ -76,8 +76,8 @@ table.table2 td{
 
 .fun-body{
   float: Right;
-  width 70%;
-  padding 10px;
+  width: 70%;
+  padding: 10px;
   background: #d76f1b;
   color: white;
   font-size: 30px;
